@@ -5,7 +5,7 @@
  */
 package DivideConquer;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class mainMinMax {
     public static void max_min(int[] arr, int indeks_awal, int indeks_akhir, Maxmin hasil) {
